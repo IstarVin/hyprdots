@@ -5,19 +5,20 @@
 # gestures                                             # gui for libinput-gestures
 
 # --------------------------------------------------- // Dependencies
-xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
+# xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 # emote                                                # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
-steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimisations
-mangohud                                               # system performance overlay
+# steam                                                  # gaming platform
+# gamemode                                               # daemon and library for game optimisations
+# mangohud                                               # system performance overlay
 # gamescope                                            # micro-compositor for gaming
 
 # --------------------------------------------------- // Music
-cava                                                   # audio visualizer
-spotify                                                # proprietary music streaming service
-spicetify-cli                                          # cli to customize spotify client
+# cava                                                   # audio visualizer
+# spotify                                                # proprietary music streaming service
+# spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+neovim                                               # vim based text editor
+brave-bin
