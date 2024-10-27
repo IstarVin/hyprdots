@@ -12,6 +12,7 @@
     "extensions.autoUpdate": false,
     "workbench.statusBar.visible": false,
     "terminal.external.linuxExec": "kitty",
+    "terminal.integrated.defaultProfile.linux": "zsh",
     "terminal.explorerKind": "both",
     "terminal.sourceControlRepositoriesKind": "both",
     "telemetry.telemetryLevel": "off"
